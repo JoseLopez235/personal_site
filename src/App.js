@@ -5,6 +5,7 @@ import {
   Route
 } from "react-router-dom";
 import NavBar from './components/NavBar/NavBar';
+import Home from './components/LandingPage/Home';
 
 function App() {
   return (
@@ -25,7 +26,7 @@ function App() {
         </Route>
         
         <Route path="/">
-
+          <Home />
         </Route>
       </Switch>
     </Router>
