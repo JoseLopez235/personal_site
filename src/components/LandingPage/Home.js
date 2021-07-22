@@ -4,7 +4,6 @@ import {
         Container, 
         Paper,
         Typography,
-        Divider,
         Chip,
         Grid } from '@material-ui/core'
 import portrait from "../LandingPage/portrait.png";
