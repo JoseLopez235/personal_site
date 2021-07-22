@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Pack Smart",
+    "webLink": "https://packsmart.herokuapp.com/",
+    "gitHub": "https://github.com/Pack-Smart/pack-smart-be",
+    "description":
+      "Pack Smart is a helpful tool for curating perfect packing lists to ease the stress of traveling. Just enter your trip details and packing preferences to receive a list made just for you. Once your list is created, view items effortlessly with our intuitive, user friendly interface and tailor the list to your specific needs by deleting, adjusting the quantity and checking off items as they are packed away. Each packing list is automatically saved to be viewed and edited at any time! With Pack Smart, you will never forget important items or over pack again.",
+    "techUsed": [
+      "Python",
+      "Flask",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "Heroku",
+      "TravisCI"
+    ],
+    "images": [
+      "https://lh3.googleusercontent.com/al6-hYdLyLSRIY3VXEEbToh8v1zSjT0a8MdK7DTHc6s6En--mquxHpUfCp1f933-kfRcISSXCNPZ58IwuN9Eh-cF8tuTf0BI5SR7saJZAsxqRJzLhNnAtl4spBbCJQtHCJHq8d8v_Q=w2400",
+      "https://lh3.googleusercontent.com/u06W6XtgFDJ6tR0ZcJaPtTC3tj-vn3O0EU8EP-fw8yfouf5_XMLOY7AbIAxfBJt3zjqXENWs4YAzrK2t8RZqQqxqvvvQ2JhkhxqKMATFtADyAj7htZYsLRaErQR1NSTLcNTEEmahyw=w2400",
+      "https://lh3.googleusercontent.com/fEHJMH8X2_95VrdqguYwmgYEv3yw_27HxDQxEsAeCcXfHXlGRIXfLEZVUljaj-z5cuX76xh15pAmHLdKu2fJlg2g4pD7JoOkiMZC2TsP0TsvoepMsZ3gaZ-uQN6_-LPG_AS8Yze6UA=w2400",
+      "https://lh3.googleusercontent.com/c5NnbYJPPvFqnoRj1isjV07bw3MnSyJAU2nVG4Eh8UWBwPCOuYNWDdGI-LNQjuL8Jh9us56jnUqUpQEx8JmLLD64jovMoIXm_i7A8zm2KsAyE-431fWAICjdu18Ztta7N6Fgzd0HiA=w2400"
+    ]
+  },
+  {
+    "name": "Relocate",
+    "webLink": "https://relocate-front-end-rails.herokuapp.com/",
+    "gitHub": "https://github.com/Relocate08",
+    "description":
+      "Titled Relocate, this application aims to ease the chaos of moving, providing a resource for users to discover services in their new hometown. Upon creating an account, users can search a new hometown by zip code and browse categories of businesses they need such as different utility companies, gyms, parks, and plumbing. Users can also save favorites to their account to revisit businesses of their choice. Each business show page displays its phone number, address, and name as well as a link to that business' Yelp page for further information.",
+    "techUsed": [
+      "Ruby On Rails",
+      "PostgreSQL",
+      "Active Record",
+      "Heroku",
+      "TravisCI"
+    ],
+    "images": [
+      "https://lh3.googleusercontent.com/NBSahyo_hV0n0lN2qTySfJ2nmB-T79Wj48WbvkKUe6D0lgkJl2kCOJVwVNxZ4sC_0iPOxvwSchQAnyeQzhdexyyj7jTbyICajKmT_AXCAY-__0qlvndS921mP59VpqXAekTEmhLDDg=w2400",
+      "https://lh3.googleusercontent.com/Fe6Givj-660CXhlS4pPAeRcEP-tSZYIJGPW9BuZEQJFLlmQ7ruG9WP5xb938Qo7rsEOoVugLHzkWYdaK7O2AYfdwqeyzWRgHPrtUBU27S2q96HtPFGrxVM-1t4oOVRvUeEbZ84hjYw=w2400",
+      "https://lh3.googleusercontent.com/65fqgNdHyQDRxmpXKzmYvQmp9-h7q3julFBWc-VJBWVrjJzHxYRrXYjTjqo5jvikZR8WMhQyyyYluQ6qDluJOoUoaKPGvsd9zGpu_Y3cFjW31MMGrUQBdK6gww_te2p1sP9DNZ5T3w=w2400",
+      "https://lh3.googleusercontent.com/aOroGBqXkdh6cqA9b7GVyYL0RVDYaBadax3bX6TFNpeh9LJeP6DXR96y9N31OZmDZi7oB7wKjP77OSp8tLLii3r5gOokqc46j416pM4SLs5O_HGYQDg4vyp37-UafcemspIloP708Q=w2400"
+    ]
+  }
+]
