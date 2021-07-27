@@ -11,6 +11,12 @@ import Projects from './components/ProjectPage/Projects'
 function App() {
   return (
     <Router>
+      <div
+      style={{
+        backgroundColor: 'red'
+      }}>
+      
+    
       <NavBar />
 
       <Switch>
@@ -30,6 +36,7 @@ function App() {
           <Home />
         </Route>
       </Switch>
+      </div>
     </Router>
   );
 }

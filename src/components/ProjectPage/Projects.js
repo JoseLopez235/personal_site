@@ -6,7 +6,6 @@ import ProjectTemplate from '../ProjectPage/ProjectTemplate'
 const Projects = () => {
   return (
     <Container>
-      <Grid container spacing={0} direction="coloumn" alignItems="center" justify="center">
         {
           ProjectsData.map(project => {
             return (
@@ -14,7 +13,6 @@ const Projects = () => {
             )
           })
         }
-      </Grid>
     </Container>
   )
 }
