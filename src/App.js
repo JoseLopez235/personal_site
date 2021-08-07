@@ -7,6 +7,7 @@ import {
 import NavBar from './components/NavBar/NavBar';
 import Home from './components/LandingPage/Home';
 import Projects from './components/ProjectPage/Projects'
+import Experience from './components/ExperiencePage/Experience'
 
 function App() {
   return (
@@ -25,7 +26,7 @@ function App() {
         </Route>
 
         <Route path="/experience">
-
+          <Experience />
         </Route>
 
         <Route path="/resume">
