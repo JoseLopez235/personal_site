@@ -1,10 +1,8 @@
 import React from "react";
 import {
-  Container,
   Chip,
   Paper,
   Typography,
-  Divider,
   IconButton,
   Toolbar,
   Grid
