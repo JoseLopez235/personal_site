@@ -8,15 +8,11 @@ import NavBar from './components/NavBar/NavBar';
 import Home from './components/LandingPage/Home';
 import Projects from './components/ProjectPage/Projects'
 import Experience from './components/ExperiencePage/Experience'
+import Resume from './components/Resume/Resume'
 
 function App() {
   return (
-    <Router>
-      <div
-      style={{
-        backgroundColor: 'red'
-      }}>
-      
+    <Router>    
     
       <NavBar />
 
@@ -30,7 +26,7 @@ function App() {
         </Route>
 
         <Route path="/resume">
-
+          <Resume />
         </Route>
         
         <Route path="/">
