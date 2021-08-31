@@ -14,6 +14,9 @@ const useStyles = makeStyles(() => ({
   },
   logo: {
     maxWidth: '80px'
+  },
+  button: {
+    color: 'white'
   }
 }))
 
@@ -27,19 +30,19 @@ const NavBar = () => {
           <img src={logo} className={classes.logo} /> 
         </Link>
 
-        <Button component={RouterLink} to={"/"}>
+        <Button component={RouterLink} to={"/"} className={classes.button}>
           About
         </Button>
 
-        <Button component={RouterLink} to={"/projects"}>
+        <Button component={RouterLink} to={"/projects"} className={classes.button}>
           Projects
         </Button>
 
-        <Button component={RouterLink} to={"/experience"}>
+        <Button component={RouterLink} to={"/experience"} className={classes.button}>
           Experience
         </Button>
 
-        <Button component={RouterLink} to={"/resume"}>
+        <Button component={RouterLink} to={"/resume"} className={classes.button}>
           Resume
         </Button>
 
